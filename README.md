@@ -47,11 +47,11 @@ This would consist of a drop down list where you choose what materials you want 
 
 This page will consist of the data including:
 
->    * Area
->    * Location
->    * Glass
->    * Cans
->    * Textiles
+>    * Area (String)
+>    * Location (String)
+>    * Glass: True/False
+>    * Cans: True/False
+>    * Textiles: True/False
 
 ##URL's##
 

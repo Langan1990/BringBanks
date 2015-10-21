@@ -39,19 +39,67 @@ will return a list of bring banks located in swords.
 ```
 
 ###List of bring banks that accept glass###
-This will give a list of the bring banks that accept glass. It will also show what other matreials are accepted
+This will give a list of the bring banks that accept glass. It will also show what other matreials are and their locations.
+
+```markdown
+*http://bringbanks.com/glass/[glass]*
+where you replace [glass] with the glass.
+For example, the URL:
+*http://bringbanks.com/glass*
+will return a list of bring banks that accept glass.
+```
 
 ###List of bring banks that accept cans###
-This will give a list of the bring banks that accept cans. It will also show what other matreials are accepted
+This will give a list of the bring banks that accept cans. It will also show what other matreials are accepted and their locations.
+
+```markdown
+*http://bringbanks.com/cans/[cans]*
+where you replace [cans] with the cans.
+For example, the URL:
+*http://bringbanks.com/cans*
+will return a list of bring banks that accept cans.
+```
 
 ###List of bring banks that accept textiles###
-This will give a list of the bring banks that accept textiles. It will also show what other matreials are accepted
+This will give a list of the bring banks that accept textiles. It will also show what other matreials are accepted and their locations.
+
+```markdown
+*http://bringbanks.com/textiles/[textiles]*
+where you replace [textiles] with the textiles.
+For example, the URL:
+*http://bringbanks.com/textiles*
+will return a list of bring banks that accept textiles.
+```
 
 ###List of bring banks in a given area with glass###
-This will give a list of the bring banks in a given area that take glass. It will also show what other matreials are accepted
+This will give a list of the bring banks in a given area that take glass. It will also show what other matreials are accepted and their locations
+
+```markdown
+*http://bringbanks.com/location-glass/[location]glass*
+where you replace [location] with the location.
+For example, the URL:
+*http://bringbanks.com/location-glass/swords-glass*
+will return a list of bring banks located in swords that accept glass.
+```
 
 ###List of bring banks in a given area with cans###
-This will give a list of the bring banks in a given area that take cans. It will also show what other matreials are accepted
+This will give a list of the bring banks in a given area that take cans. It will also show what other matreials are accepted and their locations
+
+```markdown
+*http://bringbanks.com/location-cans/[location]-cans*
+where you replace [location] with the location.
+For example, the URL:
+*http://bringbanks.com/location-cans/swords-cans*
+will return a list of bring banks located in swords that accept cans.
+```
 
 ###List of bring banks in a given area with textiles###
-This will give a list of the bring banks in a given area that take textiles. It will also show what other matreials are accepted
+This will give a list of the bring banks in a given area that take textiles. It will also show what other matreials are accepted and their locations
+
+```markdown
+*http://bringbanks.com/location-textiltes/[location]-textiltes*
+where you replace [location] with the location.
+For example, the URL:
+*http://bringbanks.com/location-textiles/swords-textiles*
+will return a list of bring banks located in swords.
+```

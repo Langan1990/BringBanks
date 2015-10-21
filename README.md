@@ -44,11 +44,12 @@ This would consist of a drop down list where you choose what materials you want 
 ##RESULT##
 
 This page will consist of the data including:
-  > *Area
-  > *Location
-  > *Glass
-  > *Cans
-  > *Textiles
+>    * id: the id of the row//primary key
+>    * Area
+>    * Location
+>    *Glass
+>    *Cans
+>    *Textiles
 
 ##URL's##
 

@@ -5,7 +5,7 @@
 ## Introduction
 
 This project provides the design and documentation for the datasets "Galway City Recycling Bring Bank Locations"
-which is available at [data.gov.ie]https://data.gov.ie/dataset/bring-banks
+which is available athttps://data.gov.ie/dataset/bring-banks
 
 ## About the data
 
@@ -24,4 +24,13 @@ There are ten values on each line, which are as follows:
 >    * TEXTILE: true/false clothes/fabric
 >    * LAT: Lattitude
 >    * LONG: Longtitude
+
+##URL's##
+#List of bring banks in a given area#
+
+#List of bring banks that accept glass#
+
+#List of bring banks that accept cans#
+
+#List of bring banks that accept textiles#
     

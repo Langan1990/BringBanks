@@ -31,7 +31,7 @@ There are ten values on each line, which are as follows:
 >    * LONG: Longtitude
 
 ##Design Idea##
-
+```markdown
 The app should be user friendly, therefore I am thinking of using only 2 windows. 
 
 ###MENU###
@@ -60,6 +60,7 @@ This page will consist of the data including:
 >    * Glass: True/False
 >    * Cans: True/False
 >    * Textiles: True/False
+```
 
 ###URL's###
 

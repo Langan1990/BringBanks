@@ -33,8 +33,8 @@ The app should be user friendly, therefore I am thinking of using only 2 windows
 ###MENU###
 
 The app should open straight to the menu, where you have 2 options:
-#Area
-#Materials
+####Area
+####Materials
 
  
 

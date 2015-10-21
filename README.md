@@ -26,11 +26,12 @@ There are ten values on each line, which are as follows:
 >    * LONG: Longtitude
 
 ##URL's##
-#List of bring banks in a given area#
 
-#List of bring banks that accept glass#
+###List of bring banks in a given area###
 
-#List of bring banks that accept cans#
+###List of bring banks that accept glass###
 
-#List of bring banks that accept textiles#
+###List of bring banks that accept cans###
+
+###List of bring banks that accept textiles###
     

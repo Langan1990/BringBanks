@@ -26,6 +26,14 @@ There are ten values on each line, which are as follows:
 >    * LAT: Lattitude
 >    * LONG: Longtitude
 
+##Design Idea##
+
+The app should be user friendly, therefore I am thinking about using only 2 windows. 
+
+###MENU###
+
+
+
 ##URL's##
 
 ###List of bring banks in a given area###

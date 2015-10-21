@@ -36,6 +36,8 @@ The app should be user friendly, therefore I am thinking of using only 2 windows
 
 ###MENU###
 
+https://cloud.githubusercontent.com/assets/8780936/10644662/c16f5df0-7821-11e5-9c0c-a085f82fa7a1.png
+
 The app should open straight to the menu, where you have 2 options:
 ####Area
  

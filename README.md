@@ -71,7 +71,7 @@ For example, the URL:
 will return a list of bring banks that accept textiles.
 ```
 
-###List of bring banks in a given area with glass###
+###List of bring banks in a given area that accept glass###
 This will give a list of the bring banks in a given area that take glass. It will also show what other matreials are accepted and their locations
 
 ```markdown
@@ -82,7 +82,7 @@ For example, the URL:
 will return a list of bring banks located in swords that accept glass.
 ```
 
-###List of bring banks in a given area with cans###
+###List of bring banks in a given area that accept cans###
 This will give a list of the bring banks in a given area that take cans. It will also show what other matreials are accepted and their locations
 
 ```markdown
@@ -93,7 +93,7 @@ For example, the URL:
 will return a list of bring banks located in swords that accept cans.
 ```
 
-###List of bring banks in a given area with textiles###
+###List of bring banks in a given area that accept textiles###
 This will give a list of the bring banks in a given area that take textiles. It will also show what other matreials are accepted and their locations
 
 ```markdown

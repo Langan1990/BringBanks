@@ -1,11 +1,11 @@
-# BringBanks
+# Bring Banks
 ## Data Representation and Querying Project 2015
 ### Keith Langan
 
 ## Introduction
 
-This project provides the design and documentation for the datasets "Galway City Recycling Bring Bank Locations"
-which is available athttps://data.gov.ie/dataset/bring-banks
+This project provides the design and documentation for the datasets "Bring Banks"
+which is available at https://data.gov.ie/dataset/bring-banks
 
 ## About the data
 
@@ -14,9 +14,9 @@ The CSV file contains 80 rows, the first being a header row with the names of ea
 
 There are ten values on each line, which are as follows:
 
->    * id: the id of the row
->    * GIS_ID: 
->    * ELECTORAL_AREA: 
+>    * id: the id of the row//primary key
+>    * GIS_ID: ???
+>    * ELECTORAL_AREA: ???
 >    * LOCATION: location
 >    * AREA: district
 >    * GLASS: true/false

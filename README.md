@@ -26,21 +26,29 @@ There are ten values on each line, which are as follows:
 >    * LAT: Lattitude
 >    * LONG: Longtitude
 
-##Design Idea##
+#Design Idea#
 
 The app should be user friendly, therefore I am thinking of using only 2 windows. 
 
-###MENU###
+##MENU##
 
 The app should open straight to the menu, where you have 2 options:
 ####Area
+ 
+This would consist of a drop down list where you choose what area you are in.
+ 
 ####Materials
 
- 
+This would consist of a drop down list where you choose what materials you want to recycle.
 
-###RESULT###
+##RESULT##
 
-
+This page will consist of the data including:
+  >Area
+  >Location
+  >Glass
+  >Cans
+  >Textiles
 
 ##URL's##
 

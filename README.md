@@ -45,7 +45,7 @@ This would consist of a drop down list where you choose what area you are in.
 
 This would consist of a drop down list where you choose what materials you want to recycle.
 
-##RESULT##
+###RESULT###
 
 This page will consist of the data including:
 

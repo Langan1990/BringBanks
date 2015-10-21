@@ -6,7 +6,7 @@
 
 This project provides the design and documentation for the datasets "Bring Banks"
 which is available at https://data.gov.ie/dataset/bring-banks
-Although the data is only based on information from the Fingal county council I have suggested to data.gov.ie to upload another dataset of all major cities in the Fiangal county council's format
+Although the data is only based on information from the Fingal county council I have suggested to data.gov.ie to upload other datasets of all major cities in the Fiangal county council's format
 
 ## About the data
 

@@ -31,7 +31,7 @@ There are ten values on each line, which are as follows:
 >    * LONG: Longtitude
 
 ##Design Idea##
-```markdown
+
 The app should be user friendly, therefore I am thinking of using only 2 windows. 
 
 ###MENU###
@@ -40,15 +40,15 @@ Below is a link to a png file of a template I designed:
 https://cloud.githubusercontent.com/assets/8780936/10644662/c16f5df0-7821-11e5-9c0c-a085f82fa7a1.png
 
 The app should open straight to the menu, where you have 2 options:
-####Area
+#####Area######
  
 This would consist of a drop down list where you choose what area you are in.
  
-####Materials
+######Materials#####
 
 This would consist of a drop down list where you choose what materials you want to recycle.
 
-###RESULT###
+#####RESULT#####
 
 Below is a link to a png file of a template I designed
 https://cloud.githubusercontent.com/assets/8780936/10644566/494ae54c-7821-11e5-8d50-8372affcca19.png
@@ -60,7 +60,7 @@ This page will consist of the data including:
 >    * Glass: True/False
 >    * Cans: True/False
 >    * Textiles: True/False
-```
+
 
 ###URL's###
 

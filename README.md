@@ -140,3 +140,8 @@ For example, the URL:
 *http://bringbanks.com/location-textiles/swords-textiles*
 will return a list of bring banks located in swords.
 ```
+
+
+
+The clip arts I used in the result window, I found at the following website:
+> https://openclipart.org/

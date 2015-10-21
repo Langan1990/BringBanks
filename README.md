@@ -1,5 +1,7 @@
 # Bring Banks
+
 ## Data Representation and Querying Project 2015
+
 ### Keith Langan
 
 ## Introduction

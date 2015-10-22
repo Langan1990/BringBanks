@@ -141,7 +141,7 @@ This will give a list of the bring banks in a given area that take textiles. It 
 where you replace [area] with the area.
 For example, the URL:
 *http://bringbanks.com/area-textiles/swords-textiles*
-will return a list of bring banks located in swords.
+will return a list of bring banks located in swords that accept textiles.
 ```
 
 ####An example of a URL that would be country wide####

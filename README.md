@@ -19,8 +19,8 @@ The CSV file contains 80 rows, the first being a header row with the names of ea
 
 There are ten values on each line, which are as follows:
 
->    * id: the id of the row//primary key
->    * GIS_ID: ???
+>    * id: the id of the row //primary key?
+>    * GIS_ID: //Primary Key?
 >    * ELECTORAL_AREA: ???
 >    * LOCATION: location
 >    * AREA: district
@@ -61,6 +61,9 @@ This page will consist of the data including:
 >    * Cans: True/False
 >    * Textiles: True/False
 
+#####MAP#####
+
+The App could also have a map considering that there are co-ordinates in the 'Latitude' and 'Longtitude' column's
 
 ###URL's###
 
@@ -68,10 +71,10 @@ This page will consist of the data including:
 This will give a list of the bring banks in a given area. it will also show what materials the bring bank accepts
 
 ```markdown
-*http://bringbanks.com/location/[location]*
-where you replace [location] with the location.
+*http://bringbanks.com/area/[area]*
+where you replace [area] with the location.
 For example, the URL:
-*http://bringbanks.com/location/swords*
+*http://bringbanks.com/area/swords*
 will return a list of bring banks located in swords.
 ```
 
@@ -112,8 +115,8 @@ will return a list of bring banks that accept textiles.
 This will give a list of the bring banks in a given area that take glass. It will also show what other matreials are accepted and their locations
 
 ```markdown
-*http://bringbanks.com/location-glass/[location]glass*
-where you replace [location] with the location.
+*http://bringbanks.com/area-glass/[area]glass*
+where you replace [area] with the area.
 For example, the URL:
 *http://bringbanks.com/location-glass/swords-glass*
 will return a list of bring banks located in swords that accept glass.
@@ -123,10 +126,10 @@ will return a list of bring banks located in swords that accept glass.
 This will give a list of the bring banks in a given area that take cans. It will also show what other matreials are accepted and their locations
 
 ```markdown
-*http://bringbanks.com/location-cans/[location]-cans*
-where you replace [location] with the location.
+*http://bringbanks.com/area-cans/[area]-cans*
+where you replace [area] with the area.
 For example, the URL:
-*http://bringbanks.com/location-cans/swords-cans*
+*http://bringbanks.com/area-cans/swords-cans*
 will return a list of bring banks located in swords that accept cans.
 ```
 
@@ -134,13 +137,21 @@ will return a list of bring banks located in swords that accept cans.
 This will give a list of the bring banks in a given area that take textiles. It will also show what other matreials are accepted and their locations
 
 ```markdown
-*http://bringbanks.com/location-textiltes/[location]-textiltes*
-where you replace [location] with the location.
+*http://bringbanks.com/area-textiltes/[area]-textiltes*
+where you replace [area] with the area.
 For example, the URL:
-*http://bringbanks.com/location-textiles/swords-textiles*
+*http://bringbanks.com/area-textiles/swords-textiles*
 will return a list of bring banks located in swords.
 ```
 
+####An example of a URL that would be country wide####
+
+```markdown
+*http://bringbanks.com/[county]/[town/city]/[area]*
+For example, the URL:
+*http://bringbanks.com/Galway/Galway/Renmore*
+will return a list of bring banks located in Renmore.
+```
 
 
 The clip arts I used in the result window, I found at the following website:

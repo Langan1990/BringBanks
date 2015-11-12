@@ -21,7 +21,7 @@ There are ten values on each line, which are as follows:
 
 >    * id: the id of the row //primary key?
 >    * GIS_ID: //Primary Key?
->    * ELECTORAL_AREA: ???
+>    * ELECTORAL_AREA: 
 >    * LOCATION: location
 >    * AREA: district
 >    * GLASS: true/false
@@ -37,7 +37,7 @@ The app should be user friendly, therefore I am thinking of using only 2 windows
 ###MENU###
 
 Below is a link to a png file of a template I designed:
-https://cloud.githubusercontent.com/assets/8780936/10644662/c16f5df0-7821-11e5-9c0c-a085f82fa7a1.png
+[Main Menu](https://cloud.githubusercontent.com/assets/8780936/10644662/c16f5df0-7821-11e5-9c0c-a085f82fa7a1.png)
 
 The app should open straight to the menu, where you have 2 options:
 > #####Area######

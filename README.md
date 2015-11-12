@@ -63,9 +63,9 @@ This page will consist of the data including:
 >    * Cans: True/False
 >    * Textiles: True/False
 
-#####MAP#####
+####MAP####
 
-The App could also have a map considering that there are co-ordinates in the 'Latitude' and 'Longtitude' column's
+The App could also have a map considering that there are co-ordinates in the 'Latitude' and 'Longtitude' column's which could be accessed by clicking on the location section in the results page
 
 ###URL's###
 

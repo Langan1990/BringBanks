@@ -155,6 +155,46 @@ For example, the URL:
 will return a list of bring banks located in Renmore.
 ```
 
+###JSON###
+
+
+####GET method####
+
+Get methods are used to retrieve data from the server when it is requested. Below is an example:
+```markdown
+$(document).ready(function(){
+	//attach a jQuery live event to the button
+	$('#getdata-button').live('click', function(){
+		$.getJSON('json-data.php', function(data) {
+				$('#showdata').html("item1="+data.item1+" item2="+data.item2+" item3="+data.item3+"");
+		});
+	});
+});
+```
+
+####An example of the data returned####
+```markdown
+    {
+    "FIELD1":"78",
+    "FIELD2":"BB83",
+    "FIELD3":"Balbriggan/Swords",
+    "FIELD4":"Lusk National School",
+    "FIELD5":"Lusk",
+    "FIELD6":"N",
+    "FIELD7":"Y",
+    "FIELD8":"N",
+    "FIELD9":"53.52904706",
+    "FIELD10":"-6.168727366"
+  },
+```
+
+###References###
 
 The clip arts I used in the result window, I found at the following website:
 > https://openclipart.org/
+
+The site I used to convert the csv to json was the following:
+> http://www.convertcsv.com/json-to-csv.htm
+
+The site I found the json example on was: 
+> http://www.sitepoint.com/ajaxjquery-getjson-simple/
